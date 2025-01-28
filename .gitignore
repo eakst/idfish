@@ -173,3 +173,5 @@ cython_debug/
 .streamlit
 .streamlit/credentials.toml
 credentials.toml
+.streamlit/secrets.toml
+secrets.toml
